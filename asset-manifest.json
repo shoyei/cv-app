@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/git@github.com:shoyei/cv-app.git/static/css/main.370c64aa.chunk.css",
+    "main.js": "/git@github.com:shoyei/cv-app.git/static/js/main.91f1368d.chunk.js",
+    "main.js.map": "/git@github.com:shoyei/cv-app.git/static/js/main.91f1368d.chunk.js.map",
+    "runtime-main.js": "/git@github.com:shoyei/cv-app.git/static/js/runtime-main.865ce08f.js",
+    "runtime-main.js.map": "/git@github.com:shoyei/cv-app.git/static/js/runtime-main.865ce08f.js.map",
+    "static/js/2.f05493db.chunk.js": "/git@github.com:shoyei/cv-app.git/static/js/2.f05493db.chunk.js",
+    "static/js/2.f05493db.chunk.js.map": "/git@github.com:shoyei/cv-app.git/static/js/2.f05493db.chunk.js.map",
+    "index.html": "/git@github.com:shoyei/cv-app.git/index.html",
+    "static/css/main.370c64aa.chunk.css.map": "/git@github.com:shoyei/cv-app.git/static/css/main.370c64aa.chunk.css.map",
+    "static/js/2.f05493db.chunk.js.LICENSE.txt": "/git@github.com:shoyei/cv-app.git/static/js/2.f05493db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.865ce08f.js",
+    "static/js/2.f05493db.chunk.js",
+    "static/css/main.370c64aa.chunk.css",
+    "static/js/main.91f1368d.chunk.js"
+  ]
+}
