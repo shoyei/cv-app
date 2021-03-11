@@ -1,0 +1,30 @@
+.Experience {
+    background-color:aliceblue;
+    border-radius: 5px;
+    width: 98%;
+    margin-bottom: 10px;
+}
+
+.expForm {
+    display: grid;
+    grid-template-columns: 1fr 2fr ;
+    overflow: hidden;
+    grid-gap: 20px;
+    padding: 20px;
+}
+
+label {
+    grid-column: 1 / 2;
+}
+
+input {
+    grid-column: 2 / 3;
+}
+
+textarea {
+    grid-column: 2 / 3;
+}
+
+button {
+    float: right;
+}
